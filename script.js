@@ -1,4 +1,4 @@
 
 function learnMore() {
-    alert("Discover how Fal.ai can transform your workflow!");
+    alert("Discover how My.ai can transform your workflow!");
 }
